@@ -3,11 +3,11 @@ a mobile application developer who is experienced with many different mobile tec
 I graduated with a master's degree on Polish-Japanese Academy of Information Technology in Warsaw. 🇵🇱🇯🇵 
 
 ## What I work with on a daily basis
-- iOS 
-- 🤖 Android
-- Flutter (for cross-platform, which also includes Windows and macOS)
-- Figma
-- Sketch
+- 💚 Android 
+- 🤍 iOS 
+- 💙 Flutter (for cross-platform, which also includes Windows and macOS)
+- 🎨 Figma
+- 💎 Sketch
 
 ## What am I actually doing?
 - 🐛 I'm fixing bugs in the projects
