@@ -17,8 +17,7 @@ I graduated with a master's degree on Polish-Japanese Academy of Information Tec
 - 🗓 I'm also planning to create portfolio with all projects that I have created to this day 🥳
 
 ## Contact 
-
-🖥 Website: 🚧 in development
-🐦 Twitter: @Bartozo_
-🔵 LinkedIn: [linkedin.com/in/bartozo](https://www.linkedin.com/in/bartozo/)
-🎨 Dribbble: [dribbble.com/Bartozo](https://dribbble.com/Bartozo)
+- 🖥 Website: 🚧 in development
+- 🐦 Twitter: @Bartozo_
+- 🔵 LinkedIn: [linkedin.com/in/bartozo](https://www.linkedin.com/in/bartozo/)
+- 🎨 Dribbble: [dribbble.com/Bartozo](https://dribbble.com/Bartozo)
