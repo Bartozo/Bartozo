@@ -15,3 +15,10 @@ I graduated with a master's degree on Polish-Japanese Academy of Information Tec
 - 👀 I’m interested in developing mobile applications
 - 🌱 I’m currently improving my skills in Jetpack Compose
 - 🗓 I'm also planning to create portfolio with all projects that I have created to this day 🥳
+
+## Contact 
+
+🖥 Website: 🚧 in development
+🐦 Twitter: @Bartozo_
+🔵 LinkedIn: [linkedin.com/in/bartozo](https://www.linkedin.com/in/bartozo/)
+🎨 Dribbble: [dribbble.com/Bartozo](https://dribbble.com/Bartozo)
