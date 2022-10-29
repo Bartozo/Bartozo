@@ -18,6 +18,6 @@ I graduated with a master's degree on Polish-Japanese Academy of Information Tec
 
 ## Contact 
 - 🖥 Website: 🚧 in development
-- 🐦 Twitter: @Bartozo_
+- 🐦 Twitter: [@Bartozo_](https://twitter.com/Bartozo_)
 - 🔵 LinkedIn: [linkedin.com/in/bartozo](https://www.linkedin.com/in/bartozo/)
 - 🎨 Dribbble: [dribbble.com/Bartozo](https://dribbble.com/Bartozo)
