@@ -1,6 +1,15 @@
-👋 Hi, I’m @Bartozo,<br>
-a mobile application developer who is experienced with many different mobile technologies.<br>
-I graduated with a master's degree on Polish-Japanese Academy of Information Technology in Warsaw. 🇵🇱🇯🇵 
+# 👋 Hi there! Welcome to my GitHub profile! I'm **Bartozo**! 🚀
+
+📱 I'm a passionate mobile application developer with over **5 years** of industry experience, specializing in creating innovative and user-friendly applications. I've honed my skills by working on a diverse range of projects and collaborating with various companies.
+
+🎓 I hold a master's degree from the **Polish-Japanese Academy of Information Technology** in Warsaw, which has provided me with a strong foundation in both computer science and development. 🇵🇱🇯🇵
+
+🔧 My technical expertise, combined with an eye for design, enables me to create visually appealing and functional mobile applications that delight users and help clients achieve their goals.
+
+🌟 Always striving for excellence, I'm committed to making cool things and designs, and I'm eager to take on new challenges and explore the latest trends in mobile app development.
+
+🔗 Feel free to explore my repositories to get a taste of my work, and don't hesitate to get in touch if you have any questions or collaboration ideas. Happy coding! 🎉
+
 
 ## What I work with on a daily basis
 - 💚 Android 
@@ -10,10 +19,9 @@ I graduated with a master's degree on Polish-Japanese Academy of Information Tec
 - 💎 Sketch
 
 ## What am I actually doing?
-- 🐛 I'm fixing bugs in the projects
-- 👨‍💻 Currenly working for a company in Warsaw
-- 👀 I’m interested in developing mobile applications
-- 🌱 I’m currently improving my skills in Jetpack Compose
+- 👨‍💻 Currenly working for a company in Wrocław
+- 🇯🇵 Learning Japanese 
+- 🌱 I’m currently making some cool apps in my free time 🙂
 - 🗓 I'm also planning to create portfolio with all projects that I have created to this day 🥳
 
 ## Contact 
