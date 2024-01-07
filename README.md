@@ -12,20 +12,24 @@
 
 
 ## What I work with on a daily basis
-- 💚 Android 
 - 🤍 iOS 
+- 💚 Android 
 - 💙 Flutter (for cross-platform, which also includes Windows and macOS)
 - 🎨 Figma
 - 💎 Sketch
 
 ## What am I actually doing?
-- 👨‍💻 Currenly working for a company in Wrocław
+- 👀 Currenly looking for a job
 - 🇯🇵 Learning Japanese 
 - 🌱 I’m currently making some cool apps in my free time 🙂
 - 🗓 I'm also planning to create portfolio with all projects that I have created to this day 🥳
 
+## My apps
+- 🤍 [Life Progress iOS](https://apps.apple.com/us/app/life-progress-goal-tracker/id6447311106)
+- 💚 [Life Progress Android](https://play.google.com/store/apps/details?id=com.bartozo.lifeprogress)
+
 ## Contact 
 - 🖥 Website: 🚧 in development
-- 🐦 Twitter: [@Bartozo_](https://twitter.com/Bartozo_)
+- 🐦 Twitter/X: [@Bartozo_](https://twitter.com/Bartozo_)
 - 🔵 LinkedIn: [linkedin.com/in/bartozo](https://www.linkedin.com/in/bartozo/)
 - 🎨 Dribbble: [dribbble.com/Bartozo](https://dribbble.com/Bartozo)
