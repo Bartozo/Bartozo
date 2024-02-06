@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub profile! I'm **Bartozo**! 🚀
 
-📱 I'm a passionate mobile application developer with over **5 years** of industry experience, specializing in creating innovative and user-friendly applications. I've honed my skills by working on a diverse range of projects and collaborating with various companies.
+📱 I'm a passionate mobile application developer with over **7 years** of industry experience, specializing in creating innovative and user-friendly applications. I've honed my skills by working on a diverse range of projects and collaborating with various companies.
 
 🎓 I hold a master's degree from the **Polish-Japanese Academy of Information Technology** in Warsaw, which has provided me with a strong foundation in both computer science and development. 🇵🇱🇯🇵
 
