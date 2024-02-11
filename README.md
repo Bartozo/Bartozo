@@ -27,6 +27,7 @@
 ## My apps
 - 🤍 [Life Progress iOS](https://apps.apple.com/us/app/life-progress-goal-tracker/id6447311106)
 - 💚 [Life Progress Android](https://play.google.com/store/apps/details?id=com.bartozo.lifeprogress)
+- 🤍 [FruitMinder iOS](https://apps.apple.com/us/app/fruitminder-fruit-reminder/id6476102870)
 
 ## Contact 
 - 🖥 Website: 🚧 in development
